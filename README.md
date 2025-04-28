@@ -37,6 +37,6 @@ npm install
 Start the React development server:
 npm start
 
-The frontend should now be running at http://localhost
+The frontend should now be running 
 
 
