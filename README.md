@@ -22,6 +22,7 @@ Step 1: Clone the repository
 Clone the repository to your local machine:
 
 git clone https://github.com/yashvanth-yashu/user-feedback-system-frontend.git
+
 cd user-feedback-system-frontend
 
 Step 3: Set up the Frontend
@@ -30,6 +31,7 @@ Navigate to the frontend folder:
 cd frontend
 
 Install the necessary dependencies:
+
 npm install
 
 Start the React development server:
